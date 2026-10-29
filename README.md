@@ -1,4 +1,4 @@
-# Restaurant Visitor Classification
+﻿# Restaurant Visitor Classification
 
 Machine-learning project based on Kaggle restaurant visitation data. The notebooks compare baseline and improved approaches for classifying whether restaurant visitation exceeds the restaurant's median.
 
